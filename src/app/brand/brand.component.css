@@ -1,0 +1,9 @@
+section .col-md-3:hover
+{
+    border: var(--main-color);
+    box-shadow: var(--shadow);
+    border-radius: 5px;
+    background-color: rgb(185, 235, 206);
+
+
+}
